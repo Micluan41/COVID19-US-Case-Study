@@ -1,15 +1,15 @@
-# COVID19-US-Case-
+#### COVID19-US-Case-Study
 
-Table of Contents
+###**Table of Contents**
 1. Installation
 2. Project Motivation
 3. File Description
 4. Results
 5. Licensing, Authors, Acknowledgements
 
-Installation
+**Installation**
 
-Project Motivation
+**Project Motivation**
 
 The COVID19 turned into a global pandemic and hit lots of countries on the planet. I was interested the situation in the US in 2020 based on a dataset from CDC.
 Particularly I wanted to explore the following topics:
@@ -21,10 +21,10 @@ Particularly I wanted to explore the following topics:
 By answering the questions above, I should have a good understanding of how the Covid developed in the US and some factors that might contribute to the trend.
 At the end, I am also curious about seeing how the situation will turn in 2021. 
 
-File Description
+**File Description**
 
-Results
+**Results**
 
-Licensing, Authors, Acknowledgements
+**Licensing, Authors, Acknowledgements**
 Dataset source: Data.CDC.gov
 https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36
