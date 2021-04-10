@@ -1,4 +1,4 @@
-### COVID19-US-Case-Study
+#### **COVID19-US-Case-Study**
 
 ## **Table of Contents**
 1. Installation
