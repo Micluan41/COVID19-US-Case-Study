@@ -26,4 +26,4 @@ At the end, I am also curious about seeing how the situation will turn in 2021.
 
 ## **Licensing, Authors, Acknowledgements**
 Dataset source: Data.CDC.gov
-Find the dataset [[here](https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36)]
+Find the dataset [here](https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36)
