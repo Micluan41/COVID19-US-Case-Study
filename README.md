@@ -33,3 +33,4 @@ The main results and analysis can be found at this [post](https://micluan41.medi
 ## **Licensing, Authors, Acknowledgements**
 Dataset source: Data.CDC.gov
 Find the dataset [here](https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36)
+Motivation came from Kaggle [projects](https://www.kaggle.com/therealcyberlord/coronavirus-covid-19-visualization-prediction/notebook)
