@@ -28,7 +28,7 @@ There are 3 notebooks available to showcase work related to the above questions.
 There is an additional helper.py file that contains some useful functions in preparing data and plots.
 
 ## **Results**
-The main results and analysis can be found at this [post] (https://micluan41.medium.com/how-does-the-covid-progress-in-the-us-a75d18f477de)
+The main results and analysis can be found at this [post](https://micluan41.medium.com/how-does-the-covid-progress-in-the-us-a75d18f477de)
 
 ## **Licensing, Authors, Acknowledgements**
 Dataset source: Data.CDC.gov
